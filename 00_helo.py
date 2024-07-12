@@ -13,6 +13,7 @@ print(type(1.5)) #Tipo de dato 'float'
 print(type(True)) #Tipo de dato 'bool
 print(type(1 + 2j)) #Tipo de dato 'complejo'
 
+print(type(print("Mi cadena de texto"))) #Tipo NoneType
 """
 Este es un 
 comentario 
