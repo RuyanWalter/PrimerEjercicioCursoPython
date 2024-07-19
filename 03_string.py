@@ -21,7 +21,4 @@ print(my_scape_string)
 
 # formateo
 name, surname, age = "Walter", "Ruyan", 21
-
-print ("Mi nombre es %s %s y mi edad es %d).format
-print ("Mi nombre es %s %s y mi edad es %d)
        
