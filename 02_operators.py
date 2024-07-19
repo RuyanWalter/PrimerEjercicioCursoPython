@@ -50,7 +50,6 @@ print("Hola" >= "Zola") # Ordenación Alfabética por ASCII
 print(len("aaaa") >= len("abaa")) # Cuenta caracteres
 print("Hola" == "Hola")
 print("Hola" != "Python")
-
 ### Operadores Lógicos 
 
 print(3 > 4 and "Hola" > "Python")
